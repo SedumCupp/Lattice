@@ -1,6 +1,6 @@
 
 
-# **Lattice: Massive Off-Chain Currency Protocol API Documentation**
+# **Lattice: Massive Off-Chain Currency Protocol**
 
 This document provides a comprehensive guide to the **Lattice API**, detailing its structure, functionality, and implementation for developers. The API enables seamless interaction with the Lattice protocol for decentralized payments.
 

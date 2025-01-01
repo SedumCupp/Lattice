@@ -59,6 +59,7 @@ Authorization: Bearer YOUR_API_KEY
 
 **Sample Request**:
 ```json
+
 POST /payments/initiate
 {
   "recipient": "0x1234567890abcdef",

@@ -1,1 +1,1 @@
-# Lattice-Decentralized-Payment-Protocol-
+# Lattice: Decentralized Payment Protocol

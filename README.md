@@ -1,6 +1,6 @@
 
 
-# **Lattice Decentralized Payment Protocol API Documentation**
+# **Lattice Decentralized Payment Protocol**
 
 This document provides a comprehensive guide to the **Lattice API**, detailing its structure, functionality, and implementation for developers. The API enables seamless interaction with the Lattice protocol for decentralized payments.
 
